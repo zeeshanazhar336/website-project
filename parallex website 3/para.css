@@ -1,0 +1,116 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.hero-section {
+    background-image: url(image1.png);
+    min-height: 100%;
+    background-attachment: fixed;
+}
+.hero-section {
+    /* position: relative; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallex {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 4px;
+    
+}
+.textbg{
+    background-color: gray;
+    padding: 20px;
+}
+.section-one {
+    padding: 40px;
+    text-align: center;
+}
+.section-two {
+    background-image: url(image2.png);
+    min-height: 400px;
+    position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.explore {
+    
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 4px;
+}
+.laptop {
+    background-color: rgba(58,58,58, 0.5);
+    padding: 20px;
+    
+}
+.dark-section {
+    background-color:  #313534;
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+  
+}
+.look {background-image: url(image3.png);
+      min-height: 400px;
+      position: relative;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+}
+.deep {
+    position: absolute;
+    width: 100%;
+    top: 60%;
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 4px;
+}
+.intonature {
+    background-color: rgba(58,58,58, 0.3);
+    padding: 20px;
+}
+.section-three {
+    background-color:  #313534;
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+}
+.last-section {
+    background-image: url(image1.png);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+.textlast {
+    position: absolute;
+    width: 100%;
+    top: 60%;
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 4px;
+}
+.redtext {
+    background-color: #313534;
+    padding: 20px;
+}
